@@ -19,7 +19,7 @@
 
 <p>I'm currently a graphic design in career transition to fullstack programmer...</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-GSilva&show_icons=true&theme=tokyonight)
+<span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-GSilva&show_icons=true&theme=tokyonight)</span>
 
 <h3>💻 Technologies I use in my daily life.</h3>
 
