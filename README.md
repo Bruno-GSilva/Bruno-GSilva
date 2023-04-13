@@ -2,7 +2,7 @@
 
 <p>👀 I'm interested in learning programming focused on fullstack.</p>
 
-<p>🌱 I am currently learning Javascript/Html/Css/Node JS.</p>
+<p>🌱 I am currently learning React, Typescript e ReactNative</p>
 
 <h3>📫 Social medias</h3>
 
