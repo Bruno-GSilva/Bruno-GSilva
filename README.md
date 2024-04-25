@@ -1,5 +1,13 @@
 <h2>👋 Hello, I'm Bruno Silva</h2>
 
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
+
 <p>👀 I'm interested in learning programming focused on fullstack.</p>
 
 <p>🌱 I am currently learning React, Typescript e ReactNative</p>
